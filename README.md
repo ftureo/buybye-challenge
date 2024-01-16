@@ -86,7 +86,7 @@ Al desarrollar este proyecto, se siguieron las instrucciones enviadas por correo
 -   **Error handling:** Aquí se consideraron los casos esenciales y sus correspondientes lanzamientos de errores. Sin embargo, es de mi agrado poder crear una estrategia que permita extraer los mensajes customizados, status y constantes útiles para el manejo de errores a un layer externo que pueda ser reutilizado por otros controladores. Además esto mejora aún más la propuesta de _Clean Code_
 -   **Estrategia de Refresh Token:** Considerando la vigencia de los tokens solicitada por el desafío, considero que sería oportuno poder crear una estrategia que permita refrescar la tokenización aunque esto también puede ser considerado o no según necesidad de negocio.
 
-_Si llegaste hasta esta parte de la documentación, muchas gracias por leer. Toda mejora o sugerencia, siéntete libre de dejar una PR o un comentario en el código para resolverlo más adelante_ :smile:
+_Si llegaste hasta esta parte de la documentación, muchas gracias por leer. Toda mejora o sugerencia, siéntete libre de dejar una PR o un comentario en el código para resolverlo más adelante_ 😄
 
 ---
 
