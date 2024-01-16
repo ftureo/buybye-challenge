@@ -20,7 +20,7 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 2. [MySQL v8.0.x](https://dev.mysql.com/downloads/workbench/) (incluye MySQL Workbench).
 3. Un editor de código de tu elección (por ejemplo, Visual Studio Code aka VSCode).
 
-Además, para el hospedaje de imágenes, necesitarás una cuenta de Cloudinary para obtener las credenciales.
+Además, para el hosting de imágenes, necesitarás una cuenta de Cloudinary para obtener las credenciales.
 
 ## Instalaciones necesarias
 
